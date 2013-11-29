@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="Ejs/distribution/bin/extensions/model_elements/SoftwareLinks/labview.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/EjsLabviewElement/labview.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/EjsLabviewElement/src/style.css"/>
+        <file path="/EjsLabviewElement/src/Labview.png"/>
+        <javaElement handleIdentifier="=EjsLabviewElement/src&lt;es.uned.jchacon.model_elements.softwarelinks"/>
+        <file path="/EjsLabviewElement/src/Readme.html"/>
+        <file path="/EjsLabviewElement/.classpath"/>
+        <file path="/EjsLabviewElement/src/DirIcon.gif"/>
+        <file path="/EjsLabviewElement/.project"/>
+    </selectedElements>
+</jardesc>
